@@ -1,0 +1,2 @@
+EHCO off
+start SnippingTool
