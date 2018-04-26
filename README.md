@@ -3,7 +3,7 @@ Defines a hotkey (<kbd>Win</kbd> + <kbd>F12</kbd>) to launch Snipping Tool for W
 
 ## Prerequisites
 
-Before you can run this program, ensure that yoou have the following software installed and functional:
+Before you can run this program, ensure that you have the following software installed and functional:
 * Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, Windows 7, Windows 8, Windows 8.1, or Windows 10 OS.
 * AutoHotkey version 1.1.00.00 or later.
 
