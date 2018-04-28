@@ -4,7 +4,7 @@ Defines a hotkey (<kbd>Win</kbd> + <kbd>PrtSc</kbd>) to launch Snipping Tool for
 ## Prerequisites
 
 Before you can run this program, ensure that you have the following software installed and functional:
-* Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, Windows 7, Windows 8, Windows 8.1, or Windows 10 OS.
+* At least one of the following operating systems: Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, Windows 7, Windows 8, Windows 8.1, or Windows 10.
 * AutoHotkey version 1.1.00.00 or later.
 
 ## Installing
