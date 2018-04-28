@@ -1,4 +1,4 @@
-;Copyright 2018 Ethan P. Genser
+; Copyright 2018 Ethan P. Genser
 ;
 ; Licensed under the Apache License, Version 2.0 (the "License");
 ; you may not use this file except in compliance with the License.
