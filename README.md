@@ -1,5 +1,5 @@
 # Snipping_Tool_Hotkey
-Defines a hotkey (<kbd>Win</kbd> + <kbd>F12</kbd>) to launch Snipping Tool for Windows.
+Defines a hotkey (<kbd>Win</kbd> + <kbd>PrtSc</kbd>) to launch Snipping Tool for Windows.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ Before you can run this program, ensure that you have the following software ins
 
 ## Running
 
-If installed according to the procedure specified above, the program will automatically run when Windows boots. To use the hotkey, press <kbd>Win</kbd> + <kbd>F12</kbd>.
+If installed according to the procedure specified above, the program will automatically run when Windows boots. To use the hotkey, press <kbd>Win</kbd> + <kbd>PrtSc</kbd>.
 
 ## File Summaries
 
