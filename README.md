@@ -11,6 +11,7 @@ Before you can run this program, ensure that you have the following software ins
 
 1. Download the source code from this repository.
 2. Move the __SnipMod_Startup__ shortcut into the Windows Startup folder (To access the Startup folder press <kbd>Win</kbd> + <kbd>R</kbd>, type 'shell:startup', and press <kbd>Enter</kbd>.)
+3. Restart your PC.
 
 ## Running
 
